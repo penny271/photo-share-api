@@ -1,0 +1,25 @@
+# OS関連
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ログファイル
+*.log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# 依存ライブラリ
+node_modules/
+
+# ビルド関連
+dist/
+out/
+.cache/
+.next/
+
+# エディタ設定
+.vscode/
+
+# 環境変数
+*.env
